@@ -1,0 +1,24 @@
+{
+  "name": "shah-jam-accessories",
+  "version": "1.0.0",
+  "description": "Luxury fashion accessories e-commerce website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server",
+    "build": "echo \"Build script placeholder\"",
+    "test": "echo \"Test script placeholder\""
+  },
+  "keywords": [
+    "luxury",
+    "fashion",
+    "accessories",
+    "watches",
+    "jewelry",
+    "handbags"
+  ],
+  "author": "SHAH JAM ACCESSORIES",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.0"
+  }
+}
